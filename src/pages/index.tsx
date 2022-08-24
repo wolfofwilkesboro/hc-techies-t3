@@ -22,10 +22,10 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="container mx-auto flex flex-col items-center justify-center min-h-screen p-4">
-        <h1 className="text-5xl md:text-[5rem] leading-normal font-extrabold text-pink-700">
+        <h1 className="text-5xl md:text-[5rem] leading-normal font-extrabold text-grey-700">
           Create <span className="text-purple-400">T3</span> App{" "}
         </h1>
-        <h2 className="text-5xl md:text-[5rem] leading-normal font-extrabold text-pink-700">
+        <h2 className="text-5xl md:text-[5rem] leading-normal font-extrabold text-grey-700">
           <span className="text-green-400">High Country Techies</span>
         </h2>
         <div className="pt-6 text-2xl flex justify-center items-center w-full">
