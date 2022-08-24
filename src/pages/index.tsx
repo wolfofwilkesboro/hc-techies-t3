@@ -82,7 +82,7 @@ const Home: NextPage = () => {
           />
           <TechnologyCard
             name="TailwindCSS"
-            description="Rapidly Build Modern Websites Without Ever Leaving Your html"
+            description="Rapidly Build Modern Websites Without Ever Leaving Your HTML"
             documentation="https://tailwindcss.com/"
           />
           <TechnologyCard
